@@ -12,4 +12,8 @@ My small hobby toy project, written in [Rust language](https://www.rust-lang.org
 
 * Marc Chevry's [Making Of Minimoys Procedural Wall](https://www.artstation.com/blogs/marcchevry/YMYR/making-of-minimoys-procedural-wall)
 
+### Odin camera example
+
+The `examples/odin_camera/main.odin` file shows a minimal GLFW/OpenGL setup in [Odin](https://odin-lang.org/) with a stubbed free-flight camera.
+
 
